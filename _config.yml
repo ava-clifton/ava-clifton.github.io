@@ -1,0 +1,34 @@
+# Site settings
+title: Ava Clifton
+email:
+author: Ava Clifton
+url: https://avaclifton.com
+
+homepage_image: assets/img/web.jpg
+
+keywords: Ava Clifton, software, android, developer, engineer
+description: The website of Ava Clifton
+locale: en_AU
+
+theme:
+  primary_color: fac1be
+
+
+exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: atom.xml
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+include: ['_pages']
+
