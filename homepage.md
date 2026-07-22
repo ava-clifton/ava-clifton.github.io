@@ -5,7 +5,7 @@ title: ""
 ---
 # Ava Clifton
 
-## [My Thesis](https://openresearch-repository.anu.edu.au/bitstreams/6fc97901-050a-4b1f-81f5-4ca05fe88ba5/download)
+## [My Thesis](https://raw.githubusercontent.com/ava-clifton/ava-clifton.github.io/refs/heads/main/thesis.pdf)
 My ANU PhD thesis on classical and FOND planning, adapting Property Directed Reachability.
 
 ## [My Thesis Software](https://github.com/ANU-HPC/parallel-pdr)
